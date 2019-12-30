@@ -276,8 +276,7 @@ img {
 	width: 590px;
 	border-right: 8px solid #FFC17F;
 	text-align: center;
-}
-.photolist {
+}.photolist {
 	float: left;
 	background-image: url(images/photo_bg.gif);
 	background-repeat: no-repeat;
@@ -288,7 +287,4 @@ img {
 	margin-bottom: 20px;
 	margin-left: 15px;
 	padding-top: 30px;
-}
-.photolist p {
-	margin: 0px;
 }
