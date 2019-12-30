@@ -155,8 +155,19 @@ body {
 	float: left;
 	margin-right: 15px;
 }
+.floatright {
+	float: right;
+}
+h1 {
+	font-size: 20px;
+	color: #000;
+	background-image: url(images/h1_bg.gif);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	padding-bottom: 25px;
+}
 h2 {
-	border-left-color: #F00;
+	border-left-color: #000;
 	border-left-style: solid;
 	border-left-width: 5px;
 	color: #F00;
@@ -171,17 +182,8 @@ h3 {
 }
 
 
+
+
 .clearboth {
 	clear: both;
-}
-.floatright {
-	float: right;
-}
-h1 {
-	font-size: 20px;
-	color: #000;
-	background-image: url(images/h1_bg.gif);
-	background-repeat: repeat-x;
-	background-position: bottom;
-	padding-bottom: 25px;
 }
